@@ -1,0 +1,8 @@
+{
+  "name": "Copy of Gemini Particle Alchemy",
+  "description": "An interactive 3D particle system controlled by hand gestures and voice via Gemini 2.5 Flash Native Audio. Transform particles into hearts, flowers, and cosmic shapes in real-time.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
